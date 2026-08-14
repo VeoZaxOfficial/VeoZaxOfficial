@@ -35,6 +35,6 @@ I'm VeoZax. i joined GitHub to Help all McPE players who uses PocketMine-MP to m
 
 <div align="center">
 
-**Follow along for more plugins, dev logs, and updates 🚀**
+**If you love to support me, feel free to Follow me!**
 
 </div>
