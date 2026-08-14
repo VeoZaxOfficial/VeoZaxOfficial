@@ -5,7 +5,7 @@
 # Hey, I'm VeoZax 👋
 ### Also known as Veo or VZ
 
-I build plugins for **PocketMine-MP (Legacy)** — Minecraft: Bedrock Edition servers.
+I build plugins for **PocketMine-MP (Legacy)** - Minecraft: Bedrock/Pocket Edition servers.
 
 <br/>
 
@@ -28,11 +28,8 @@ I build plugins for **PocketMine-MP (Legacy)** — Minecraft: Bedrock Edition se
 
 ## 👋 About me
 
-Welcome to my channel! I made it to help McPE players who use PocketMine-MP build their own servers. I create content about Minecraft, with a focus on guiding people through running servers on PocketMine-MP.
-
-I also develop helpful plugins and share them with everyone, to make PocketMine-MP servers better. My work mainly targets McPE versions **0.14.x**, **0.15.10**, and **1.1.x**.
-
-On top of that, I make Minecraft animations using **MineImator** just for fun and to entertain people.
+Hello Everyone!
+I'm VeoZax. i joined GitHub to Help all McPE players who uses PocketMine-MP to make their servers. i create things Related to Minecraft. i Guide about Minecraft Servers which running using PocketMine-MP. i also develop Helpful plugins and share it with everyone that will help to make their PocketMine-MP servers better. i mainly focus on McPE versions from 0.14.x - 0.15.10 - 1.1.x
 
 <br/>
 
