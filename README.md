@@ -25,7 +25,14 @@ I build plugins for **PocketMine-MP (Legacy)** — Minecraft: Bedrock Edition se
 </div>
 
 <br/>
-</div>
+
+## 👋 About me
+
+Welcome to my channel! I made it to help McPE players who use PocketMine-MP build their own servers. I create content about Minecraft, with a focus on guiding people through running servers on PocketMine-MP.
+
+I also develop helpful plugins and share them with everyone, to make PocketMine-MP servers better. My work mainly targets McPE versions **0.14.x**, **0.15.10**, and **1.1.x**.
+
+On top of that, I make Minecraft animations using **MineImator** just for fun and to entertain people.
 
 <br/>
 
