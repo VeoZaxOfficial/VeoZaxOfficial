@@ -25,30 +25,6 @@ I build plugins for **PocketMine-MP (Legacy)** — Minecraft: Bedrock Edition se
 </div>
 
 <br/>
-
-## 🧩 What I work on
-
-I build **quality-of-life and server-management plugins** for PocketMine-MP Legacy servers — things that make running a Bedrock network easier, like seamless server transfers, lobby systems, and utility tools.
-
-## 📌 Featured project
-
-<div align="center">
-
-### [MCPE Transfer](https://github.com/VeoZaxOfficial/MCPETransfer)
-Seamless server-to-server transfers for Bedrock Edition (1.1.x+) — no disconnects, live Discord logging, and lobby routing built in.
-
-![Stars](https://img.shields.io/github/stars/VeoZaxOfficial/MCPETransfer?style=for-the-badge&color=181717&labelColor=000000)
-![Issues](https://img.shields.io/github/issues/VeoZaxOfficial/MCPETransfer?style=for-the-badge&color=181717&labelColor=000000)
-
-</div>
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VeoZaxOfficial&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" width="48%" alt="VeoZax's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeoZaxOfficial&layout=compact&theme=react&hide_border=true&bg_color=0d1117" width="48%" alt="Top languages"/>
-
 </div>
 
 <br/>
