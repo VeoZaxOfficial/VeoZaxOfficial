@@ -29,7 +29,7 @@ I build plugins for **PocketMine-MP (Legacy)** - Minecraft: Bedrock/Pocket Editi
 ## 👋 About me
 
 Hello Everyone!
-I'm VeoZax. i joined GitHub to Help all McPE players who uses PocketMine-MP to make their servers better. i create things Related to Minecraft. i Guide about Minecraft Servers which running using PocketMine-MP. i also develop Helpful plugins and share it with everyone that will help to make their PocketMine-MP servers better. i mainly focus on McPE versions from 0.14.x - 0.15.10 - 1.1.x
+I'm VeoZax. i joined GitHub to Help all McPE players who uses PocketMine-MP to make their servers. i create things Related to Minecraft. i Guide about Minecraft Servers which running using PocketMine-MP. i also develop Helpful plugins and share it with everyone that will help to make their PocketMine-MP servers better. i mainly focus on McPE versions from 0.14.x - 0.15.10 - 1.1.x
 
 <br/>
 
